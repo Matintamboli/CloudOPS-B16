@@ -1,0 +1,23 @@
+--> ARM is a service that helps you create, manage, update and delete azure resources.
+---> Key components
+1. Resouces 
+---> a resouces is any services you create in azure.
+eg: load balancer, virtual machine etc.
+
+2. Resource group:
+-->
+a resource group is a logical container that holds related resources
+
+3. ARM Templtae: (Cloudformation in AWS)
+--> An ARM Template is a json file thta describes the infrastructure you want.
+
+
+4. Resource provider:
+--> A resource provider is a service that knows hot to create resources.
+eg :
+microsoft.compute --> VM/instance/server/node
+microsoft.storage --> storage account
+
+
+Azure regions - 70 to 80
+AZ are 100+
